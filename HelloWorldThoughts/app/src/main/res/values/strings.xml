@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World Thoughts</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world_citizen_of_the_imperium_press_the_the_button_below_to_receive_your_thought_for_the_day">Hello World! Citizen of the Imperium, press the the button below to receive your thought for the day</string>
+    <string name="todo">TODO</string>
+    <string name="thought">Thought</string>
+</resources>
